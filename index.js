@@ -5,6 +5,8 @@ function add(a, b){
 function subtract(a, b){
   return a-b;
   var name = "name"; 
+  var num = 2;
+  
 }
 
 function multiply(a, b){
